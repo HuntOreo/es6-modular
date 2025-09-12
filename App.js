@@ -1,1 +1,2 @@
-console.log('Hello world!');
+import greeting from './Hello.js';
+greeting('hunter');
